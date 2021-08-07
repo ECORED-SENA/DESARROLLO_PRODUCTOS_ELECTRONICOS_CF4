@@ -12,7 +12,7 @@
     .row.mt-4
       .col-12.col-lg-8.align-self-center
         p Los circuitos son el resultado de la organización lógica y funcional de los componentes electrónicos que los conforman. Esta organización no es aleatoria debido a que depende de la determinación de especificaciones y del uso de herramientas de hardware y software para su elaboración. En el diseño electrónico se parte de la solución de una necesidad con la cual se genera la idea para iniciar el diseño.  
-        p.mt-3 A continuación se exponen cada uno de los aspectos de un diseño eléctrico y electrónico.
+        p.mt-3 A continuación, se exponen cada uno de los aspectos de un diseño eléctrico y electrónico.
       .col-6.col-lg-4.offset-3.offset-lg-0
         figure
           img(src="@/assets/template/tema-2-2.svg", alt="Texto que describa la imagen")

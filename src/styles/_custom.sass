@@ -10,6 +10,8 @@
   margin: 0 auto
 .titulo-segundo::after
   border-left: 50px solid $color-acento-contenido
+.position-relative
+  position: relative
 
 // Backgrounds colors ------------------------------
 .bg-acento-botones
@@ -18,6 +20,7 @@
   background-color: #FECA2E80
 .bg-primario
   background-color: $color-primario !important
+  transition: all 600ms
 .bg-primario-op50
   background-color: #4DD0E180 !important
 .bg-primario-op30
@@ -40,6 +43,8 @@
   border: 1px solid $color-primario
 .borde-primario-4
   border: 4px solid $color-primario
+.borde-primario-top-2
+  border-top: 2px solid $color-primario
 .borde-gris-der
   border-right: 3px solid #AFAFAF
 .borde-gris-noizq
@@ -71,6 +76,8 @@
   background-color: $color-primario
 .bloque-texto-a.color-primario-invertido::before 
   background-color: #E8E8E8
+.cajon.color-acento-botones
+  background-color: #FFD94799
 
 // Listas -------------------------------
 .lista-ol--cuadro__vineta.acento-botones
@@ -93,12 +100,23 @@ li .fa-angle-right::before
 table.separada
   border-collapse: separate
   border-spacing: 20px 0px
-.tabla-borde-azul th
+.tabla-borde-azul th, .tabla-borde-azul td 
   border: 1px solid #70D2DF
+.tabla-borde-azul td:hover ~ th  
+  background-color: black
 .tabla-a table
   min-width: 0
 .no-border td, .no-border thead 
   border: transparent
+.image-cover
+  position: absolute
+  top: 0px
+  opacity: 0
+  transition: all 1000ms
+.image-cover:hover
+  display:block
+  opacity: 100%
+  transition: all 650ms
 
 // Tabs
 .tabs-a button
@@ -109,3 +127,11 @@ table.separada
 // Linea de tiempo
 .linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
   color: $color-sistema-texto
+
+// Imagen Infografica
+// .intro .img-infografica__content .img-infografica__card
+//   top: 25% !important
+//   left: 55% !important
+
+.font-16
+  font-size: 16px

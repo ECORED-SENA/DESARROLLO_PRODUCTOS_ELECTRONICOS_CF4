@@ -14,7 +14,7 @@
           .row.m-0.align-items-center.justify-content-between
             .col-lg-8
               .bloque-texto-a__texto.p-4
-                p.mb-0 Son dispositivos que hacen uso de la energía eléctrica y la manipulan en función de sus características físicas y propiedades eléctricas. Están formados por un cuerpo también denominado encapsulado y unos terminales o pines de material conductor, que les permiten interconectarse con otros componentes y fijarse a una placa de circuito impreso , asó como se puede observar en la #[strong figura 2.]    
+                p.mb-0 Las órdenes de trabajo son muy variadas y depende del área en el que se utilice, contendrán actividades relacionadas. Existen órdenes de trabajo para diseño electrónico, órdenes de trabajo para realización de mantenimiento electrónico, órdenes de trabajo para prototipado mecánico ensamble electrónico desensamble electrónico entre otras.
             .col-lg-4.mb-4.mb-lg-0
               figure
                 img(src="@/assets/template/tema-3-1.svg", alt="Texto que describa la imagen").w-50.margin-0-auto

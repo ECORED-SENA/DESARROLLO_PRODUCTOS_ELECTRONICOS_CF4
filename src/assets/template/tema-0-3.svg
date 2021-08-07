@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253.714" height="88.53" viewBox="0 0 253.714 88.53">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_24419" data-name="Rectángulo 24419" width="253.714" height="88.53" transform="translate(2132.605 1037.329)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_93701" data-name="Grupo 93701" transform="translate(-2132.605 -1037.329)">
+    <g id="Grupo_94445" data-name="Grupo 94445" clip-path="url(#clip-path)">
+      <g id="Grupo_94444" data-name="Grupo 94444">
+        <g id="Grupo_94434" data-name="Grupo 94434">
+          <path id="Trazado_150711" data-name="Trazado 150711" d="M2750.561,1675.5V629.032A17.563,17.563,0,0,0,2733,611.47H2141.924a17.563,17.563,0,0,0-17.563,17.562v210.04a6.1,6.1,0,0,1-6.1,6.1h-32.912a11.908,11.908,0,0,0-11.908,11.908v161.87a11.908,11.908,0,0,0,11.908,11.908h32.912a6.1,6.1,0,0,1,6.1,6.1v41.659a6.1,6.1,0,0,1-6.1,6.1h-32.912a11.909,11.909,0,0,0-11.908,11.908v227.8a11.909,11.909,0,0,0,11.908,11.908h32.912a6.1,6.1,0,0,1,6.1,6.1V1675.5Z" fill="#b3009d"/>
+        </g>
+        <g id="Grupo_94435" data-name="Grupo 94435" opacity="0.2" style="isolation: isolate">
+          <rect id="Rectángulo_24410" data-name="Rectángulo 24410" width="82.553" height="60.803" transform="translate(2371.701 986.005) rotate(90)"/>
+        </g>
+        <g id="Grupo_94436" data-name="Grupo 94436" opacity="0.2" style="isolation: isolate">
+          <rect id="Rectángulo_24411" data-name="Rectángulo 24411" width="82.553" height="60.803" transform="translate(2299.766 986.005) rotate(90)"/>
+        </g>
+        <g id="Grupo_94437" data-name="Grupo 94437" opacity="0.2" style="isolation: isolate">
+          <rect id="Rectángulo_24412" data-name="Rectángulo 24412" width="82.553" height="60.803" transform="translate(2227.831 986.005) rotate(90)"/>
+        </g>
+        <g id="Grupo_94438" data-name="Grupo 94438" opacity="0.2" style="isolation: isolate">
+          <rect id="Rectángulo_24413" data-name="Rectángulo 24413" width="16.435" height="60.803" transform="translate(2371.701 1052.123) rotate(90)"/>
+        </g>
+        <g id="Grupo_94439" data-name="Grupo 94439" opacity="0.2" style="isolation: isolate">
+          <rect id="Rectángulo_24414" data-name="Rectángulo 24414" width="16.435" height="60.803" transform="translate(2299.766 1052.123) rotate(90)"/>
+        </g>
+        <g id="Grupo_94440" data-name="Grupo 94440" opacity="0.2" style="isolation: isolate">
+          <rect id="Rectángulo_24415" data-name="Rectángulo 24415" width="16.435" height="60.803" transform="translate(2227.831 1052.123) rotate(90)"/>
+        </g>
+        <g id="Grupo_94441" data-name="Grupo 94441" opacity="0.6" style="isolation: isolate">
+          <rect id="Rectángulo_24416" data-name="Rectángulo 24416" width="21.354" height="21.354" transform="translate(2353.526 1004.098) rotate(90)" fill="#fff"/>
+        </g>
+        <g id="Grupo_94442" data-name="Grupo 94442" opacity="0.6" style="isolation: isolate">
+          <rect id="Rectángulo_24417" data-name="Rectángulo 24417" width="21.354" height="21.354" transform="translate(2280.816 1004.098) rotate(90)" fill="#fff"/>
+        </g>
+        <g id="Grupo_94443" data-name="Grupo 94443" opacity="0.6" style="isolation: isolate">
+          <rect id="Rectángulo_24418" data-name="Rectángulo 24418" width="21.354" height="21.354" transform="translate(2208.106 1004.098) rotate(90)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

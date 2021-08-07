@@ -14,5 +14,10 @@ Vue.prototype.$package = packageJson
 new Vue({
   router,
   store,
+  methods: {
+    chBg(color, title) {
+      document.getElementById(title).style.backgroundColor = color
+    },
+  },
   render: h => h(App),
 }).$mount('#app')

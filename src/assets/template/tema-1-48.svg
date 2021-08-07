@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="317" viewBox="0 0 620 317">
+  <g id="Grupo_96530" data-name="Grupo 96530" transform="translate(6431 6536)">
+    <rect id="Rectángulo_35648" data-name="Rectángulo 35648" width="620" height="317" transform="translate(-6431 -6536)" fill="#ffd947" opacity="0.7"/>
+    <g id="Grupo_94817" data-name="Grupo 94817" transform="translate(-6376.5 -6641)">
+      <path id="Trazado_151112" data-name="Trazado 151112" d="M191,259h10v77.5H191Z" fill="#3c0761"/>
+      <path id="Trazado_151113" data-name="Trazado 151113" d="M211,259h10v77.5H211Z" fill="#3c0761"/>
+      <path id="Trazado_151114" data-name="Trazado 151114" d="M231,259h10v77.5H231Z" fill="#3c0761"/>
+      <path id="Trazado_151115" data-name="Trazado 151115" d="M316,291.5h2.5V339h5V291.5H326V274H316Z" fill="#3c0761"/>
+      <path id="Trazado_151116" data-name="Trazado 151116" d="M296,291.5h2.5V339h5V291.5H306V274H296Z" fill="#3c0761"/>
+      <path id="Trazado_151117" data-name="Trazado 151117" d="M276,291.5h2.5V339h5V291.5H286V274H276Z" fill="#3c0761"/>
+      <circle id="Elipse_5118" data-name="Elipse 5118" cx="7.5" cy="7.5" r="7.5" transform="translate(208.5 204)" fill="#3c0761"/>
+      <path id="Trazado_151118" data-name="Trazado 151118" d="M218.5,199.252V189h-5v10.252a12.527,12.527,0,0,1,5,0Z" fill="#3c0761"/>
+      <path id="Trazado_151119" data-name="Trazado 151119" d="M241,189H223.5v12.565a12.5,12.5,0,1,1-15,0V189H191a7.509,7.509,0,0,0-7.5,7.5V239h55v5h-55v2.5A7.509,7.509,0,0,0,191,254h50a7.509,7.509,0,0,0,7.5-7.5V244h-5v-5h5V196.5A7.509,7.509,0,0,0,241,189Zm-47.5,30h-5v-5h5Zm0-10h-5v-5h5Zm0-10h-5v-5h5Z" fill="#3c0761"/>
+      <path id="Trazado_151120" data-name="Trazado 151120" d="M319.8,204H282.2l-8.7,10.877V229h55V214.877ZM301,224a7.5,7.5,0,1,1,7.5-7.5A7.509,7.509,0,0,1,301,224Z" fill="#3c0761"/>
+      <circle id="Elipse_5119" data-name="Elipse 5119" cx="2.5" cy="2.5" r="2.5" transform="translate(298.5 214)" fill="#3c0761"/>
+      <path id="Trazado_151121" data-name="Trazado 151121" d="M273.5,269h55V234h-55Zm40-5h-25v-5h25Zm10,0h-5v-5h5Zm-5-25h5v5h-5Zm-30,0h25v5h-25Zm-10,0h5v5h-5Zm0,10h45v5h-45Zm0,10h5v5h-5Z" fill="#3c0761"/>
+    </g>
+  </g>
+</svg>
