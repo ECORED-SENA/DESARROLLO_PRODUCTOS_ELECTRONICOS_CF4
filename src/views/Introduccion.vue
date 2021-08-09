@@ -37,7 +37,7 @@
               .h4.mb-0 Conexiones eléctricas
     .row.mt-5
       .col-9
-        p La esquematización de un circuito eléctrico es un paso importante en la fase del diseño electrónico; ya que en este punto se tienen en cuenta las órdenes de trabajo con las especificaciones del circuito, los componentes electrónicos a utilizar, los requerimientos eléctricos para el buen funcionamiento del circuito y hasta la herramienta de software para realizar la captura del plano esquemático.
+        p La esquematización de un circuito eléctrico es un paso importante en la fase del diseño electrónico; ya que en este punto se tienen en cuenta las ordenes de trabajo con las especificaciones del circuito, los componentes electrónicos a utilizar, los requerimientos eléctricos para el buen funcionamiento del circuito y hasta la herramienta de software para realizar la captura del plano esquemático.
         p.mt-3 Un buen diseño de placa de circuito impreso dependerá de un correcto diseño del plano esquemático, ya que si existen errores en el esquemático, estos migrarán automáticamente a la placa. Por tal razón, resulta importante realizar un adecuado alistamiento de todos los insumos necesarios (componentes electrónicos, encapsulados, hojas de datos, entre otros) para la elaboración del plano esquemático y su posterior captura en el software CAD empleado para tal propósito.
       .col-3
         figure

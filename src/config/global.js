@@ -76,7 +76,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Órdenes de trabajo',
+        titulo: 'Ordenes de trabajo',
         desarrolloContenidos: true,
         subMenu: [],
       },
@@ -204,7 +204,7 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor pedagógico',
+        cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
@@ -216,12 +216,12 @@ export default {
       },
       {
         nombre: 'Miroslava González Hernández',
-        cargo: 'Diseñador y Evaluador Instruccional',
+        cargo: 'Diseñador y evaluador instruccional',
         centro: 'Centro de Gestión Industrial - Regional Distrito Capital',
       },
       {
         nombre: 'Ana Catalina Córdoba Sus',
-        cargo: 'Revisora Metodológica y Pedagógica',
+        cargo: 'Revisora metodológica y pedagógica',
         centro:
           'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
