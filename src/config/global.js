@@ -82,12 +82,6 @@ export default {
       },
     ],
     subMenu: [
-      /*  {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      }, */
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -119,7 +113,8 @@ export default {
     {
       referencia:
         'Arboledas Brihuega, D. (2011). Electrónica básica: guía básica. Ediciones de la U.',
-      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7120',
+      link:
+        'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=7120&pg=&ed=',
     },
     {
       referencia:
@@ -178,7 +173,8 @@ export default {
       texto:
         'Arboledas Brihuega, D. (2011). Electrónica básica: guía básica. Ediciones de la U.',
       tipo: 'Libro',
-      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=7120',
+      link:
+        'https://www-ebooks7-24-com.bdigital.sena.edu.co/stage.aspx?il=7120&pg=&ed=',
     },
     {
       texto:
